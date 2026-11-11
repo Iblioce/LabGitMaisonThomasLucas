@@ -1,2 +1,2 @@
 # LabGitMaisonThomasLucas
-projet pour devops par thomas Renault et Lucas Brissaud
+projet Maison pour devops par thomas et Lucas 
